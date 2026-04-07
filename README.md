@@ -21,4 +21,10 @@ A high-fidelity, responsive landing page built with a focus on premium aesthetic
 
 ---
 
+## 🌐 Live Link
+ 
+[`PPA landing page`](https://ppa-landing-page-two.vercel.app/)
+
+---
+
 **Developed with a focus on attention to detail and deep work.**
