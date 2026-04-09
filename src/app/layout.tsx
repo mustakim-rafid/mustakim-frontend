@@ -20,6 +20,7 @@ const sfPro = localFont({
 export const metadata: Metadata = {
   title: "PPA - Master Focus and Get More Done in Less Time",
   description: "Master Focus and Get More Done in Less Time",
+  icons: "/logo.png",
 };
 
 export default function RootLayout({
