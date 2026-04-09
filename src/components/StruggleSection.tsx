@@ -17,7 +17,7 @@ export default function StruggleSection() {
   const words = text.split(" ");
 
   return (
-    <section ref={containerRef} className="relative h-[900vh] md:h-[1200vh] bg-black">
+    <section ref={containerRef} className="relative h-[750vh] md:h-[1200vh] bg-black">
       <div className="sticky top-0 h-screen w-full flex flex-col items-center justify-center px-6 gap-8 overflow-hidden">
         {/* Badge */}
         <div className="bg-neutral-900 inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-[#1d1d1f] text-xs mb-5 text-neutral-400 shadow-[inset_-1px_-1px_2px_rgba(22,92,255,0.3),inset_1px_1px_2px_rgba(22,92,255,0.3)]">
